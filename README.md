@@ -1,0 +1,1 @@
+This MERN-based e-commerce clothing app enables users to browse products, add items to a cart, and complete purchases. Built with React, Express, and MongoDB, it features secure user authentication, order tracking, and an admin dashboard for product management. Designed for a seamless shopping experience, both front-end and back-end are fully integrated.
